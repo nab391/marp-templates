@@ -1,0 +1,21 @@
+{
+  "name": "marp-docker-env",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@marp-team/marp-cli": "^4.2.0",
+    "@wekanteam/markdown-it-mermaid": "^0.6.4",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-attrs": "^4.3.1",
+    "markdown-it-bracketed-spans": "^1.0.1",
+    "markdown-it-cjk-breaks": "^2.0.0",
+    "markdown-it-container": "^4.0.0",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-mark": "^4.0.0",
+    "markdown-it-named-code-blocks": "^1.0.6",
+    "markdown-it-ruby": "^1.1.2",
+    "markdown-it-sub": "^2.0.0",
+    "markdown-it-sup": "^2.0.0",
+    "markdown-it-underline": "^1.0.1"
+  }
+}

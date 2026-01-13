@@ -1,0 +1,14 @@
+node_modules
+node_modules/
+.venv
+.venv/
+venv
+venv/
+*.log
+voices/*
+narration/*
+__slide.md
+__merged.md
+slide.html
+slide.pdf
+
