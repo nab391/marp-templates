@@ -1,1 +1,1 @@
-docker build -t marp-docker ./marp
+wsl docker build -t marp-docker ./marp
